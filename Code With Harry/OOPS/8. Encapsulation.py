@@ -1,0 +1,2 @@
+# Encapsulation : Suppose, we are making any game and Objects of game like Trees, Player Control, Cars, City etc are divided into Team Members then One of Team Member will do code for Trees, other for Player Control and So on then "Encapsulation" of All these Game Objects will be Complete Game.
+# -> Means Member who will integrate all the Objects of class don't know anything about class, He knows only things that one member gave me Trees Object I just need to Encapsulate it.
