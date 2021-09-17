@@ -1,0 +1,3 @@
+Python is one of the best Programming Language
+Python is very Fast
+Python is very useful in Machine Learning and Data Science
