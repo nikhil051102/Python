@@ -3,7 +3,7 @@
 # 1.
 s1 = "Nikhil"
 s2 = "Deore"
-x = "This is me, %s %s"%(s1, s2)
+x = "This is me, %s %s"(s1, s2)
 print(x)
 
 # 2.
